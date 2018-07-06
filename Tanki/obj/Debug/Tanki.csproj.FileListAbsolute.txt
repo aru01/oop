@@ -1,0 +1,18 @@
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\bin\Debug\Tanki.exe.config
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\bin\Debug\Tanki.exe
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\bin\Debug\Tanki.pdb
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\obj\Debug\Tanki.csprojResolveAssemblyReference.cache
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\obj\Debug\Tanki.Form1.resources
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\obj\Debug\Tanki.Properties.Resources.resources
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\obj\Debug\Tanki.csproj.GenerateResource.Cache
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\obj\Debug\Tanki.exe
+c:\users\elibay\documents\visual studio 2017\Projects\Tanki\Tanki\obj\Debug\Tanki.pdb
+C:\Users\Elibay\Desktop\Tanki\Tanki\bin\Debug\Tanki.exe.config
+C:\Users\Elibay\Desktop\Tanki\Tanki\bin\Debug\Tanki.exe
+C:\Users\Elibay\Desktop\Tanki\Tanki\bin\Debug\Tanki.pdb
+C:\Users\Elibay\Desktop\Tanki\Tanki\obj\Debug\Tanki.csprojResolveAssemblyReference.cache
+C:\Users\Elibay\Desktop\Tanki\Tanki\obj\Debug\Tanki.Form1.resources
+C:\Users\Elibay\Desktop\Tanki\Tanki\obj\Debug\Tanki.Properties.Resources.resources
+C:\Users\Elibay\Desktop\Tanki\Tanki\obj\Debug\Tanki.csproj.GenerateResource.Cache
+C:\Users\Elibay\Desktop\Tanki\Tanki\obj\Debug\Tanki.exe
+C:\Users\Elibay\Desktop\Tanki\Tanki\obj\Debug\Tanki.pdb
